@@ -1,0 +1,12 @@
+text-decoration{none;
+}
+a{text-decoration:none;
+}
+th{color:blue;
+font-size:40px;
+border: 5px solid yellow;
+}
+td{border-collapse:collapse;
+border: 3px solid yellow;
+}
+
